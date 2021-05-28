@@ -1,4 +1,4 @@
-# OOP-Assignment3: Human/Dog Simulation
+# OOP-Assignment3: SpaceShip Simulation
 ## Project3.java canMove.java PirateShip.java CargoShip.java AbstractClassSpaceShip.java
 
 * This assignment uses polymorphism, an abstract class and inheritance.
